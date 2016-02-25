@@ -14,7 +14,7 @@ permalink: /contact/
 		  S8 0RN
 		</address>
 		<address>
-		  <a href="tel:{{site.tel_link}}" class="glyphicon glyphicon-earphone"> {{site.tel}}</a>
+		  <a href="tel:+{{site.tel_link}}" class="glyphicon glyphicon-earphone"> {{site.tel}}</a>
 		</address>
 		<address>
 		  <a href="mailto:{{site.email}}" class="glyphicon glyphicon-envelope"> {{site.email}}</a>
