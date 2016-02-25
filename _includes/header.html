@@ -1,0 +1,40 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <!--  Navigation menu -->
+    <div class="row">
+      <nav class="navbar navbar-default navbar-fixed-top sticky" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ site.baseurl }}">
+              <!--<img src="{{ site.images | prepend: site.baseurl }}/favicon.ico" class="img-responsive" alt="Olympic Electrical Services logo">-->
+              Nxt Level</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="{{site.baseurl}}">Home</a></li>
+              <li><a href="{{site.baseurl}}hair/">Hair</a></li>
+              <li><a href="{{site.baseurl}}nails/">Nails</a></li>
+              <li><a href="{{site.baseurl}}contact/">Contact Us</a></li>
+              <!--  This page is no use until the site is hosted properly
+              <li><a href="/enquiry/">Enquiry</a></li>
+              -->
+              <li><a href="tel:{{site.tel_link}}" class="glyphicon glyphicon-earphone"> {{site.tel}}</a></li>
+              <li><a href="mailto:{{site.email}}" class="glyphicon glyphicon-envelope"> {{site.email}}</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+    </div>
+  </div>
+
+</header>
+
+<div class="container">
