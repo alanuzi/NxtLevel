@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hair
-permalink: /hair/
+permalink: /hair
 ---
 Coming Soon (hair)
 

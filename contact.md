@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Us
-permalink: /contact/
+permalink: /contact
 ---
 <p>We'd love to hear from you</p>
 

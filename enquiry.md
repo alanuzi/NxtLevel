@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enquiry
-permalink: /enquiry/
+permalink: /enquiry
 ---
 
 <form role="form" action="mailto:{{site:email}}" method="post" enctype="text/plain">

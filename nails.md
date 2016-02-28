@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Nails
-permalink: /nails/
+permalink: /nails
 ---
 Coming Soon (nails)

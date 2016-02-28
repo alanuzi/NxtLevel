@@ -5,7 +5,7 @@ tel_link: +441142583033
 tel: 0114 258 3033
 description: > # this means to ignore newlines until "baseurl:"
   Nail and Hair salon in Sheffield.
-baseurl: "/NxtLevel/" # the subpath of your site, e.g. /blog
+baseurl: "/NxtLevel" # the subpath of your site, e.g. /blog
 url: "http://nxtlevel.co.uk" # the base hostname & protocol for your site
 theme: "readable"
 
