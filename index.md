@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Home
 ---
-
-<div class="home">
 
   <div class="row">
     <div class="col-xs-12">
@@ -40,4 +39,3 @@ layout: default
 
     <div class="fb-like" data-href="https://www.facebook.com/NxtLevelHairAndBeauty" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
   </div>
-</div>

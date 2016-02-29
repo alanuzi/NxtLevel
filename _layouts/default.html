@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 
   {% include head.html %}
 
@@ -13,14 +13,12 @@
     </header>
     {% endif %}
 
-    <div class="page-content">
-      <div class="wrapper">
+{% include scripts.html %}
+    <div class="container">
         {{ content }}
-      </div>
     </div>
 
     {% include footer.html %}
-
+    <!-- TODO add JS scripts here -->
   </body>
-
 </html>
